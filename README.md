@@ -1,0 +1,1 @@
+This repo demonstrates, how to deploy code in static and dynamic manner for your Docker images. For more details refer to http://tarunlalwani.com/post/deploying-code-inside-docker-images-statically-dynamically/
